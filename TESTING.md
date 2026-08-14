@@ -191,15 +191,15 @@ Expected:
 
 | Test | Result |
 |---|---|
-| Backend automated tests | ✅ Passed |
-| API tests | ✅ Passed |
-| Repository tests | ✅ Passed |
-| Frontend production build | ✅ Passed |
-| Create task | ✅ Passed |
-| Edit task | ✅ Passed |
-| Delete task | ✅ Passed |
-| Move task | ✅ Passed |
-| Priority filter | ✅ Passed |
-| Persistence | ✅ Passed |
-| Production frontend | ✅ Verified |
-| Production backend | ✅ Verified |
+| Backend automated tests |  Passed |
+| API tests |  Passed |
+| Repository tests |  Passed |
+| Frontend production build |  Passed |
+| Create task |  Passed |
+| Edit task |  Passed |
+| Delete task |  Passed |
+| Move task |  Passed |
+| Priority filter |  Passed |
+| Persistence |  Passed |
+| Production frontend |  Verified |
+| Production backend |  Verified |

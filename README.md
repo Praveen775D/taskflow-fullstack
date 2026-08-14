@@ -924,25 +924,25 @@ npm run dev
 
 | Requirement | Status |
 |---|---|
-| Task board | ✅ |
-| Create task | ✅ |
-| Edit task | ✅ |
-| Delete task | ✅ |
-| Move task | ✅ |
-| Priority management | ✅ |
-| Priority filtering | ✅ |
-| Persistent SQLite database | ✅ |
-| Backend validation | ✅ |
-| Error handling | ✅ |
-| SQL schema | ✅ |
-| Foreign keys | ✅ |
-| Non-trivial SQL query #1 | ✅ |
-| Non-trivial SQL query #2 | ✅ |
-| Seed data | ✅ |
-| Backend tests | ✅ |
-| Task count stretch goal | ✅ |
-| Responsive UI | ✅ |
-| Production deployment | ✅ |
+| Task board  |
+| Create task |  Pass |
+| Edit task |  Pass |
+| Delete task |  Pass |
+| Move task |  Pass |
+| Priority management |  Pass |
+| Priority filtering |  Pass |
+| Persistent SQLite database |  Pass |
+| Backend validation |  Pass |
+| Error handling |  Pass |
+| SQL schema |  Pass |
+| Foreign keys |  Pass |
+| Non-trivial SQL query #1 |  Pass |
+| Non-trivial SQL query #2 |  Pass |
+| Seed data |  Pass |
+| Backend tests |  Pass |
+| Task count stretch goal |  Pass |
+| Responsive UI |  Pass |
+| Production deployment |  Pass |
 
 ---
 
